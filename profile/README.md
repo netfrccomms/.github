@@ -9,7 +9,7 @@ We are [NetFracture Communications OÜ](https://netfracture.com/), infrastructur
 
 We are located in: 
 - 🇰🇷 DigitalAsset Gasan 
-- 🇺🇸 Telehouse Teleport Center - New York 
+- 🇺🇸 Telehouse Teleport Center - New York (HIPAA Compatible)
 - 🇳🇱 Qupra Datacenter 
 
 For more information, check [here](https://lg.netfracture.com/). 
